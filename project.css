@@ -29,3 +29,13 @@
 a{
     color:#FFF;
 }
+.container{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 15px;
+
+}
+.row{
+  margin-bottom: 10px;
+
+}
